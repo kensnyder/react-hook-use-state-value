@@ -14,7 +14,9 @@ export function App() {
 				<span className="count-display">{counter.value}</span>
 				<button onClick={increment}>+</button>
 			</p>
+			<pre>typeof counter: {JSON.stringify(typeof counter)}</pre>
 			<pre>counter.value: {JSON.stringify(counter.value)}</pre>
+			<pre>typeof counter.set: {JSON.stringify(typeof counter.set)}</pre>
 			<pre>String(counter): {JSON.stringify(String(counter))}</pre>
 			<pre>Number(counter): {JSON.stringify(Number(counter))}</pre>
 		</div>

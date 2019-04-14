@@ -1,0 +1,23 @@
+{
+	"name": "react-hook-for-a-version-of-usestate-that-returns-a-single-object-with-a-value-property-and-a-set-method",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"lodash.map": "4.6.0",
+		"lodash.size": "4.2.0",
+		"react": "next",
+		"react-dom": "next"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"browserslist": ["chrome 67", "firefox 55"],
+	"keywords": [],
+	"description": "Only an experiment. This may be an ugly API."
+}

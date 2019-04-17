@@ -1,5 +1,5 @@
 {
-  "name": "react-hook-for-a-version-of-usestate-that-returns-a-single-object-with-a-value-property-and-a-set-method",
+  "name": "zindextop-component",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,5 +20,5 @@
     "firefox 55"
   ],
   "keywords": [],
-  "description": "Only an experiment. This may be an ugly API."
+  "description": "Ensures that after mount, a component is at top z index"
 }
